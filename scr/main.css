@@ -11976,3 +11976,15 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+
+
+.vid{
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+}
+
+.mine{
+  background-color: blue;
+  color: blue;
+  padding: 2rem;
+}
